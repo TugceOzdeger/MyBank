@@ -1,0 +1,9 @@
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\bin\Debug\BusinessLogic.Contracts.dll
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\bin\Debug\BusinessLogic.Contracts.pdb
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\bin\Debug\Business.Entities.dll
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\bin\Debug\Business.Entities.pdb
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\obj\Debug\BusinessLogic.Contracts.csprojAssemblyReference.cache
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\obj\Debug\BusinessLogic.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\obj\Debug\BusinessLogic.Contracts.csproj.CopyComplete
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\obj\Debug\BusinessLogic.Contracts.dll
+C:\Users\Tugce\source\repos\MyBank\BusinessLogic.Contracts\obj\Debug\BusinessLogic.Contracts.pdb

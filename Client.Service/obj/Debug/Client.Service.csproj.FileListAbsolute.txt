@@ -1,0 +1,13 @@
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Client.Service.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Client.Service.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Business.Contracts.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Client.Contracts.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Client.Entities.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Business.Contracts.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Client.Contracts.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Service\bin\Debug\Client.Entities.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Service\obj\Debug\Client.Service.csprojAssemblyReference.cache
+C:\Users\Tugce\source\repos\MyBank\Client.Service\obj\Debug\Client.Service.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\MyBank\Client.Service\obj\Debug\Client.Service.csproj.CopyComplete
+C:\Users\Tugce\source\repos\MyBank\Client.Service\obj\Debug\Client.Service.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Service\obj\Debug\Client.Service.pdb

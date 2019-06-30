@@ -1,0 +1,9 @@
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\bin\Debug\Client.Contracts.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\bin\Debug\Client.Contracts.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\bin\Debug\Client.Entities.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\bin\Debug\Client.Entities.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\obj\Debug\Client.Contracts.csprojAssemblyReference.cache
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\obj\Debug\Client.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\obj\Debug\Client.Contracts.csproj.CopyComplete
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\obj\Debug\Client.Contracts.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Contracts\obj\Debug\Client.Contracts.pdb

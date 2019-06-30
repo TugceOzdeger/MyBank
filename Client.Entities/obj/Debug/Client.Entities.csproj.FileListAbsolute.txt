@@ -1,0 +1,5 @@
+C:\Users\Tugce\source\repos\MyBank\Client.Entities\bin\Debug\Client.Entities.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Entities\bin\Debug\Client.Entities.pdb
+C:\Users\Tugce\source\repos\MyBank\Client.Entities\obj\Debug\Client.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\MyBank\Client.Entities\obj\Debug\Client.Entities.dll
+C:\Users\Tugce\source\repos\MyBank\Client.Entities\obj\Debug\Client.Entities.pdb

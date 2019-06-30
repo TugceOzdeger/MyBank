@@ -1,0 +1,14 @@
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Business.Tests.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Business.Tests.pdb
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\obj\Debug\Business.Tests.csprojAssemblyReference.cache
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\obj\Debug\Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\obj\Debug\Business.Tests.csproj.CopyComplete
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\obj\Debug\Business.Tests.dll
+C:\Users\Tugce\source\repos\MyBank\Business.Tests\obj\Debug\Business.Tests.pdb
